@@ -1,14 +1,14 @@
 {
   "id": "./",
   "name": "Kalendarz Zmian PRO",
-  "short_name": "Zmiany PRO",
+  "short_name": "Kalendarz PRO",
   "description": "Offline: grafik, godziny, finanse, urlop i raporty",
   "lang": "pl",
-  "start_url": "./index.html",
+  "start_url": "./",
   "scope": "./",
   "display": "standalone",
   "background_color": "#091426",
-  "theme_color": "#0b1930",
+  "theme_color": "#091426",
   "icons": [
     {
       "src": "icon-192.png",
